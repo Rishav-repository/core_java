@@ -1,0 +1,12 @@
+Ask
+Empathy
+Be a good Human
+love to learn
+
+ide
+git---Version Control System
+ci/cd
+SDLC
+jira ----project management 
+code quility---sonar lint
+
